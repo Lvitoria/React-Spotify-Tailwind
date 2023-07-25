@@ -2,7 +2,7 @@
 
 <!-- Imagem centralizada do logo do Spotify -->
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/420/432/png-transparent-spotify-logo-spotify-computer-icons-podcast-music-apps-miscellaneous-angle-logo-thumbnail.png" alt="Logo do Spotify" width="200px" />
+  <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Logo do Spotify" width="200px" />
 </p>
 
 
